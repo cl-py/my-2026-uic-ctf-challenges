@@ -4,7 +4,7 @@ i wrote primarily binary exploit and reverse engineering challenges! here are th
 **mistakes were made** - debugging console drivers within a kernel (the challenge i'm the most proud of)\
 **mystery scroll** - tracing system calls within a kernel \
 **the final ingredient** - tracing function calls within a c program (ghidra recommended!)\
-**loot roll** - modifying variable values at runtime (my personal favorite!)\
+**loot roll** - modifying variable values at runtime\
 **fairy cave** - using buffer overflow to trigger a signal handler
 
 if you're interested in accessing the resources used in the 2026 UIC Ghidra workshop i held, all relevant files can be found in this repo:\
